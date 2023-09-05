@@ -8,5 +8,10 @@
 ## La ventana de perfil del usuario logueado
 ![image](https://github.com/Marcsucre25/bycicle/assets/105298870/a8dcd3c6-1511-434f-9e82-933737e881b1)
 ## En case de descargar el proyecto ejecutar para descargar las dependencias del proyecto
-> npm install
-> flutter pub get 
+> _npm install_
+
+> _flutter pub get_
+## Integrantes: 
+> Males Paulina
+
+> Moreira Marcos
