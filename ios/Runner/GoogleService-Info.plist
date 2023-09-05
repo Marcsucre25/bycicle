@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>944835113141-202ii583blmmhu4qcr5lh4lma3ceehrl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.944835113141-202ii583blmmhu4qcr5lh4lma3ceehrl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBSGtUERosBLUbvOMnwJ85UbrBkrUNBy4k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>944835113141</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.bicycle</string>
+	<key>PROJECT_ID</key>
+	<string>proyectomovil-4b36b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>proyectomovil-4b36b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:944835113141:ios:7d3d40258a06dfc39d0efc</string>
+	<key>DATABASE_URL</key>
+	<string>https://proyectomovil-4b36b-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

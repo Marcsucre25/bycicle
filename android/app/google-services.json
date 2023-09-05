@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "944835113141",
+    "firebase_url": "https://proyectomovil-4b36b-default-rtdb.firebaseio.com",
+    "project_id": "proyectomovil-4b36b",
+    "storage_bucket": "proyectomovil-4b36b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944835113141:android:deb7c35ec604acdf9d0efc",
+        "android_client_info": {
+          "package_name": "com.example.bicycle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944835113141-ssm0838gnmc2bmuoj018jcentdvr6cc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZtFfaRuYa_-bNwV3X2GbDMJ3MugTpdxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944835113141-ssm0838gnmc2bmuoj018jcentdvr6cc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
